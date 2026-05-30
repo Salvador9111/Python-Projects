@@ -49,5 +49,3 @@ Feedback, suggestions, and contributions are always welcome. Feel free to explor
 ## ⭐ Support
 
 If you find these projects helpful or interesting, consider giving the repository a star to support future development and updates.
-
-
